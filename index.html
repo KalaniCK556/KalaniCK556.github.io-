@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Kalani Chamodya Weerasooriya] - Portfolio</title>
+    <title>[Your name] - Portfolio</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
         <div class="container">
-            <h1>Your Name</h1>
+            <h1>Kalani Chamodya Weerasooriya</h1>
             <p>Undergraduate Student in Biotechnology | Passionate About Innovation and IT</p>
         </div>
     </header>
@@ -74,3 +74,6 @@
     </footer>
 </body>
 </html>
+
+            
+         
