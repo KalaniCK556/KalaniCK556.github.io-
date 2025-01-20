@@ -28,7 +28,7 @@
         <section id="about">
             <h2>About Me</h2>
             <p>Hi! I am [Kalani Chamodya Weerasooriya], an undergraduate student pursuing a degree in Biotechnology. I have a keen interest in IT and innovation, having excelled in Information Technology during my secondary education. My goal is to merge my scientific expertise with technological solutions to create meaningful impact.</p>
-            <img src="D:\DAHAM\important\honor x7a 2024 06 12\WhatsApp Images.jpg" alt="Your Photo" class="profile-pic">
+            <img src="https://github.com/KalaniCK556/KalaniCK556.github.io-/blob/main/IMG-20240525-WA0039.jpg?raw=true" alt="Your Photo" class="profile-pic">
         </section>
         <section id="education">
             <h2>Educational Qualifications</h2>
